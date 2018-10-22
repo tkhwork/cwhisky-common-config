@@ -1,0 +1,1 @@
+# cwhisky-common-config
